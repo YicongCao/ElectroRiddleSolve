@@ -29,3 +29,9 @@ node solve.js
 - 0、1、2、3、4、5、6、7、8 代表九个砖块
 
 ![riddle](./assets/riddle.png)
+
+## 解法动画
+
+跑出来结果，发现真的被自己蠢哭，最短路径“DCD”，点三下鼠标就完事儿了……
+
+![动画](assets/animation.gif)
