@@ -99,7 +99,7 @@ var solveRiddle = (riddle, rotates) => {
             console.log("found", path)
             return
         }
-        // 广度优先搜索
+        // 深度优先搜索
         for (var i = 0; i < 4; i++) {
             path.push(i)
             searchDeeper(path, depth + 1, maxDepth)
